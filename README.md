@@ -5,6 +5,8 @@
 - E-mail : t52031@gmail.com
 
 <hr>
+
+
 ### 專業技能
 - 使用 photoshop、illustrator、sketch 進行視覺流程製作，佐以 zeplin 輔助 sublime 切版。<br)
 - 熟悉 HTML5 + CSS 完成RWD頁面架構和布局；並能在不依賴 Framework 下進行 RWD 客製化，開發符合各裝置尺寸的網站建置。<br)
@@ -14,7 +16,6 @@
 - 利用 AJAX 撈取遠端JSON資料並顯示在網頁上<br)
 - 介接第三方 API 設計 SPA 頁面 (Google Map、Open Data 等等)<br)
 - 了解 Git / Github 與基本指令運用
-
 <hr>
 
 ### 作品集 
