@@ -8,7 +8,7 @@
 
 
 ### 專業技能
-- 使用 photoshop、illustrator、sketch 進行視覺流程製作，佐以 zeplin 輔助 sublime 切版。
+- 使用 photoshop、illustrator 進行視覺流程製作，佐以 zeplin 輔助 sublime 切版。
 - 熟悉 HTML5 + CSS 完成RWD頁面架構和布局；並能在不依賴 Framework 下進行 RWD 客製化，開發符合各裝置尺寸的網站建置。
 - 使用 Bootstrap 快速開發響應式網頁。
 - 使用 SCSS 管理網頁版型。
@@ -19,10 +19,10 @@
 <hr>
 
 ### 作品集 
-- <a href="http://ternchen.000webhostapp.com/Travel/index.html" target="_blank"><B>高雄旅遊資訊</B> (RWD)</a> <BR>
+- <a href="" target="_blank"><B>高雄旅遊資訊</B> (RWD)</a> <BR>
   ⌞ Bootstrap 搭配 SCSS 快速搭建響應式網頁。 <BR>
   ⌞ 使用政府開放平台抓取 JSON 資料，並透過 Javascript / Ajax 呈現在網頁上。<BR>
-- <a href="https://ternmayday.github.io/NESAT_nine/" target="_blank"><B>颱風防災資訊平台</B> (RWD)</a> <BR>
+- <a href="" target="_blank"><B>颱風防災資訊平台</B> (RWD)</a> <BR>
   ⌞ Bootstrap 快速搭建響應式網頁 + SCSS 管理表格樣式。 <BR>
   ⌞ 使用政府開放平台抓取 JSON 資料，並透過 Javascript / Ajax 呈現在網頁上<BR>
   ⌞ 結合 Google Map Api 將資料標記在地圖上。<BR>
