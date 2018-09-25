@@ -1,7 +1,8 @@
 # 鄭雅琳 ( YA-LIN CHENG)
 - English Name: Maomao Cheng
 - Location : 新北市蘆洲區
-- Personal Website : 
+- Education： 崇右科技大學-企業管理系
+- Personal Website : https://github.com/t520244
 - E-mail : t52031@gmail.com
 
 <hr>
@@ -26,6 +27,9 @@
   ⌞ Bootstrap 快速搭建響應式網頁 + SCSS 管理表格樣式。 <BR>
   ⌞ 使用政府開放平台抓取 JSON 資料，並透過 Javascript / Ajax 呈現在網頁上<BR>
   ⌞ 結合 Google Map Api 將資料標記在地圖上。<BR>
+- <a href="" target="_blank"><B>SweetCafe</B> (RWD)</a> <BR>
+  ⌞ 熟悉 HTML5 + CSS 完成RWD頁面架構和布局，開發符合各裝置尺寸的網站建置 <BR>
+ 
   
 
 © 2018 GitHub, Inc.
