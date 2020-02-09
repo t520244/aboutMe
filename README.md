@@ -20,7 +20,7 @@
 <hr>
 
 ### 作品集 
-- <a href="" target="_blank"><B>高雄旅遊資訊</B> (RWD)</a> <BR>
+- <a href="https://t520244.github.io/onlineTalk-kh/" target="_blank"><B>高雄旅遊資訊</B> (RWD)</a> <BR>
   ⌞ Bootstrap 搭配 SCSS 快速搭建響應式網頁。 <BR>
   ⌞ 使用政府開放平台抓取 JSON 資料，並透過 Javascript / Ajax 呈現在網頁上。<BR>
 - <a href="" target="_blank"><B>颱風防災資訊平台</B> (RWD)</a> <BR>
