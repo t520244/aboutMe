@@ -9,7 +9,7 @@
 
 
 ### 專業技能
-- 使用 photoshop、illustrator 進行視覺流程製作，佐以 zeplin 輔助 sublime (VSC 切版。
+- 使用 photoshop、illustrator 進行視覺流程製作，佐以 Adobe XD 輔助 sublime (VSC 切版。
 - 熟悉 HTML5 + CSS 完成RWD頁面架構和布局；並能在不依賴 Framework 下進行 RWD 客製化，開發符合各裝置尺寸的網站建置。
 - 使用 Bootstrap 快速開發響應式網頁。
 - 使用 SCSS 管理網頁版型。
