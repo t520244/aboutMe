@@ -3,7 +3,7 @@
 - Location : 新北市蘆洲區
 - Education： 崇右科技大學-企業管理系
 - Personal Website : https://github.com/t520244
-- E-mail : t52031@gmail.com
+- E-mail : maomao520244@gmail.com
 
 <hr>
 
